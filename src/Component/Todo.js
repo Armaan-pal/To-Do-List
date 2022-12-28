@@ -56,6 +56,12 @@ function Todo() {
             );
           })}
           </div>
+
+        <footer> 
+            <div>
+              <a href="tel:+917905326805">call us</a>
+            </div>
+        </footer>
         
     </div>
   );
